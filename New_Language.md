@@ -12,7 +12,7 @@ https://github.com/cfenollosa/os-tutorial
 
 &nbsp;
 &nbsp;
-#Ressources
+# Ressources
 
 https://llvm.org/docs/tutorial/
 
