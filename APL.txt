@@ -1,0 +1,3 @@
+https://xpqz.github.io/learnapl/intro.html
+
+https://github.com/codereport/katas/blob/main/ConwaysGameOfLife/ConwaysGameOfLife.apl
